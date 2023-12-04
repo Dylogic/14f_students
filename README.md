@@ -33,3 +33,9 @@ Controller osztály létrehozása
 
 Api metódusokkal együtt
 ```php artisan make:controller StudentController --api```
+
+All in One
+```php artisan make:model Teacher -mfc --api```
+
+## ThunderClient export
+thunder-collection-14f_students.json
