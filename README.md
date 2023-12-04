@@ -37,5 +37,8 @@ Api metódusokkal együtt
 All in One
 ```php artisan make:model Teacher -mfc --api```
 
+Route útvonlalak listázása
+```php artisan route:list```
+
 ## ThunderClient export
 thunder-collection-14f_students.json
